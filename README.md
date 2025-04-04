@@ -2,13 +2,6 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <title>Desafio 3 - Banco de Dados</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background-color: #f5f5f5; }
-    h1, h2 { color: #2c3e50; }
-    code { background: #ecf0f1; padding: 2px 4px; border-radius: 4px; }
-    pre { background: #ecf0f1; padding: 10px; border-radius: 4px; overflow-x: auto; }
-  </style>
 </head>
 <body>
   <h1>Desafio 3 - Banco de Dados (MySQL)</h1>
